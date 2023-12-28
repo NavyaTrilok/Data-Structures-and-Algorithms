@@ -8,57 +8,63 @@
  * }
  */
 class Solution {
-    public List<Integer> distanceK(TreeNode root, TreeNode target, int K) {
+    public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
         
-          Map<TreeNode, TreeNode> parent = new HashMap();
-        Queue<TreeNode> queue = new LinkedList();
-
-
-        // build the map, relation of node and its parent
-        dfs(root, null, parent);
-        Set<TreeNode> seen = new HashSet();
-        queue.add(target);
+        HashMap<TreeNode, TreeNode> parenthm = new HashMap<>();
+        Queue<TreeNode> que = new LinkedList<>();
+        
+        dfs(root,null,parenthm);
+        HashSet<TreeNode> seen = new HashSet<>();
+        que.add(target);
         seen.add(target);
         int level = 0;
-
-
-        // typical bfs 
-        while (!queue.isEmpty()) {            
-            if(level == K) break;
-            int size = queue.size();            
-            for(int i = 0 ; i < size; i++) {                            
-                TreeNode node = queue.poll();         
-                if (node.left != null && !seen.contains(node.left)) {
+        while(!que.isEmpty()){
+            if(level == k)
+                break;
+            int size = que.size();
+            
+            for(int i = 0;i < size;i++){
+                
+                TreeNode node = que.poll();
+                
+                if(node.left != null && !seen.contains(node.left)){
+                    que.offer(node.left);
                     seen.add(node.left);
-                    queue.offer(node.left);
                 }
-                if (node.right != null && !seen.contains(node.right)) {
+                
+                if(node.right != null && !seen.contains(node.right)){
+                    que.offer(node.right);
                     seen.add(node.right);
-                    queue.offer(node.right);
                 }
-                TreeNode par = parent.get(node);
-                if (par != null && !seen.contains(par)) {
-                    seen.add(par);
-                    queue.offer(par);
+                
+                TreeNode parentNode = parenthm.get(node);
+                if(parentNode!=null && !seen.contains(parentNode)){
+                    que.offer(parentNode);
+                    seen.add(parentNode);
                 }
+                
             }
+            
             level++;
-        }      
-
-
-        // populate all values of node in queue
-        List<Integer> ans = new ArrayList();
-        for (TreeNode n: queue)
-            ans.add(n.val);
-        return ans;                   
+            
+        }
+        
+        ArrayList<Integer> al = new ArrayList<>();
+        
+        for(TreeNode n: que){
+            al.add(n.val);
+        }
+        
+        return al;
     }
     
-    
-    public void dfs(TreeNode node, TreeNode par, Map<TreeNode, TreeNode> parent) {
-        if (node != null) {
-            parent.put(node, par);
-            dfs(node.left, node, parent);
-            dfs(node.right, node, parent);
+    public static void dfs(TreeNode node,TreeNode par,Map<TreeNode,TreeNode> parenthm){
+        
+        if(node!=null){
+            parenthm.put(node,par);
+            dfs(node.left,node,parenthm);
+            dfs(node.right,node,parenthm);
         }
+        
     }
 }
