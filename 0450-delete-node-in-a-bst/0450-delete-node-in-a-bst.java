@@ -47,10 +47,9 @@ class Solution {
     }
     
     public static int max(TreeNode node){
-       if(node.right!=null){
-           return max(node.right);
-       }else{
-           return node.val;
-       }
+        while(node.right!=null){
+            node = node.right;
+        }
+        return node.val;
     }
 }
