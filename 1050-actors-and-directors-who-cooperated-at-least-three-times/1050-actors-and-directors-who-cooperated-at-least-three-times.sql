@@ -1,6 +1,8 @@
-# Write your MySQL query statement below
+/* Write your T-SQL query statement below */
 
-SELECT actor_id, director_id
-FROM ActorDirector
-GROUP BY actor_id, director_id
-HAVING COUNT(*) >= 3;
+select actor_id,director_id 
+from ActorDirector 
+Group by actor_id,director_id
+having count(*) >= 3
+
+
