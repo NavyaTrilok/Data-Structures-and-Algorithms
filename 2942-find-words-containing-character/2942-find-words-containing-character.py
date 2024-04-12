@@ -2,11 +2,11 @@ class Solution(object):
     def findWordsContaining(self, words, x):
       
        
-        res = []
+        res = set()
         
         for i in range(len(words)):
             if x in words[i]:
-                res.append(i)
+                res.add(i)
                    
         return res
         """
