@@ -1,14 +1,13 @@
 class Solution(object):
     def findWordsContaining(self, words, x):
       
-        """
+       
         res = []
         
         for i in range(len(words)):
-            for j in words[i]:
-                if (j==x):
-                    res.append(words.index(words[i]))
-                    break
+            if x in words[i]:
+                res.append(i)
+                   
         return res
         """
         res = []
@@ -16,3 +15,4 @@ class Solution(object):
             if x in words[i]:
                 res.append(i)
         return res
+         """
