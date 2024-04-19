@@ -1,12 +1,10 @@
 class Solution(object):
     def finalValueAfterOperations(self, operations):
-        X = 0
+        x = 0
         for operation in operations:
-            if '+' in operation:
-                X = X+1
+            if "+" in operation:
+                x = x+1
             else:
-                X = X-1
-            
-        
-        return X
+                x = x-1
+        return x
         
