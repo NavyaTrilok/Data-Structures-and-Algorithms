@@ -1,12 +1,13 @@
-class Solution:
-    def countMatches(self, items: List[List[str]], ruleKey: str, ruleValue: str) -> int:
-        dct = {"type": 0, "color": 1, "name": 2}
-        key = dct[ruleKey]
+class Solution(object):
+    def countMatches(self, items, ruleKey, ruleValue):
         res = 0
+        dct = {"type":0, "color":1, "name":2}
+        value = dct[ruleKey]
         for item in items:
-            if item[key] == ruleValue:
-                res += 1
+            if item[value] == ruleValue:
+                res+=1
         return res
-
+            
         
+    
         
