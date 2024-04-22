@@ -1,16 +1,15 @@
-class Solution {
-    public String destCity(List<List<String>> paths) {
-        Set<String> cities = new HashSet<>(); 
-        for (List<String> path : paths) {
-            cities.add(path.get(0)); 
-        }
+class Solution(object):
+    def destCity(self, paths):
+        #collecting the departure cities
+        departure = set()
+        for cities in paths:
+            departure.add(cities[0])
+         
+        # if we encounter city that is not in the departure list, then it should be the desitnation
+        for cities in paths:
+            if cities[1] in departure:
+                continue 
+            else:
+                return cities[1]
         
-        for (List<String> path : paths) {
-            String dest = path.get(1); 
-            if (!cities.contains(dest)) {
-                return dest; 
-            }
-        }
-        return "";
-    }
-}
+        
