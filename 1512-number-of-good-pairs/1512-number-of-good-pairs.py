@@ -1,13 +1,13 @@
-class Solution {
-    public int numIdenticalPairs(int[] nums) {
-        int count = 0;
-        for(int i = 0 ; i < nums.length; i++){
-            for(int j = nums.length-1; j >= 0; j--){
-                if (nums[i] == nums[j] && i < j)
-                    count++;
-            }
-        }
+class Solution(object):
+    def numIdenticalPairs(self, nums):
+        count = 0
+        for i in range(len(nums)):
+            for j in range(len(nums)-1, -1, -1):
+                
+                print(j)
+                if nums[i] == nums[j] and i < j:
+                    count+=1
+        return count
+                
+                
         
-        return count;
-    }
-}
