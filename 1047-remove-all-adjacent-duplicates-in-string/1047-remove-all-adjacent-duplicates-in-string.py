@@ -1,10 +1,16 @@
 class Solution(object):
     def removeDuplicates(self, s):
         res = []
-        for c in s:
-            if res and res[-1] == c:
+        ans = []
+        for i in s:
+            if res and res[-1] == i:
                 res.pop()
             else:
-                res.append(c)
+                res.append(i)
+                
         return "".join(res)
+                
+        
+                
+        
         
