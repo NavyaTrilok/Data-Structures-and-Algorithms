@@ -27,7 +27,7 @@ class Solution {
             
             p3.next = new ListNode(carry%10);
             p3 = p3.next;
-            carry /= 10;
+            carry = carry/10;
               
         }
         
