@@ -1,9 +1,10 @@
 class Solution(object):
     def separateDigits(self, nums):
-        StringList = map(str, nums)
-        string = ''.join(StringList)
-        digitlist = list(string)
-        intlist = map(int,digitlist)
-        return list(intlist)
+                                        #List = [13,25,83,77]
+        StringList = map(str, nums)     #StringList = ['13','25','83','77']
+        string = ''.join(StringList)    #string = "13258377"
+        digitlist = list(string)        #digitlist = ['1','3','2','5','8','3','7','7']
+        intlist = map(int,digitlist)    #intlist = [1,3,2,5,8,3,7,7]
+        return intlist                  #re
         
         
