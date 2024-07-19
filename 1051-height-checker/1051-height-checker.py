@@ -9,3 +9,8 @@ class Solution(object):
         
         return ans
         
+        
+#Difference between sorted and sort
+
+#sort() directly modifies the original list, while sorted() keeps the original list intact and #creates a new sorted list.
+
