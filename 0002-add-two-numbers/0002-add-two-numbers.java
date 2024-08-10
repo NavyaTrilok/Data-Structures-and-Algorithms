@@ -18,16 +18,16 @@ class Solution {
         while(l1 != null || l2 != null){
             number = 0;
             if(l1 != null){
-                number += l1.val;
+                number = number + l1.val;
                 l1 = l1.next;
             }
             
             if(l2 != null){
-                number += l2.val;
+                number = number + l2.val;
                 l2 = l2.next;
             }
             
-            number += carry;
+            number = number + carry;
             
             p3.next = new ListNode(number%10);
             p3 = p3.next;
