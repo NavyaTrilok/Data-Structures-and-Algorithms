@@ -14,20 +14,24 @@ class Solution {
         ListNode dummy = new ListNode(0);
         ListNode p3 = dummy;
         int carry = 0;
+        int number = 0;
         while(l1 != null || l2 != null){
+            number = 0;
             if(l1 != null){
-                carry += l1.val;
+                number += l1.val;
                 l1 = l1.next;
             }
             
             if(l2 != null){
-                carry += l2.val;
+                number += l2.val;
                 l2 = l2.next;
             }
             
-            p3.next = new ListNode(carry%10);
+            number += carry;
+            
+            p3.next = new ListNode(number%10);
             p3 = p3.next;
-            carry = carry/10;
+            carry = number/10;
               
         }
         
