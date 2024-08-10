@@ -1,45 +1,35 @@
 class Solution {
-    public int lengthOfLongestSubstring(String str) {
-        int ans = 0;
-        int i = -1;
+    public int lengthOfLongestSubstring(String s) {
+        //acquire 
+        //release  if duplicacy
+
+        boolean[] set = new boolean[256];
+        int i = 0;
         int j = -1;
-        
-        HashMap<Character,Integer> map = new HashMap<>();
-        
-        while(true){
-            boolean f1 = false;
-            boolean f2 = false;
-            while(i < str.length() - 1){
-                i++;
-                char ch = str.charAt(i);
-                map.put(ch, map.getOrDefault(ch,0) + 1);
-                
-                if(map.get(ch) == 2){
-                    break;
-                }else{
-                    int len = i - j;
-                    if(len > ans){
-                        ans = len;
-                    }
-                }
-            }
-            
-            while(j<i){
-                f2 = true;
+
+        int maxLen=0,currLen=0 ;
+
+              
+        while(i<s.length())
+        {
+            char ch_to_acquire = s.charAt(i);
+            while(set[ch_to_acquire])
+            {
                 j++;
-                char ch = str.charAt(j);
-                map.put(ch, map.get(ch)-1);
-                if(map.get(ch)==1){
-                    break;
-                }
+                 char ch_to_release = s.charAt(j);
+                set[ch_to_release] = false;
+                
             }
+
+            set[ch_to_acquire] = true;
+
             
-            if(f1==false && f2==false){
-                break;
-            }
-            
+
+            currLen= i - j;
+            maxLen=Math.max(currLen,maxLen);
+            i++;
+
         }
-            
-        return ans;
+        return maxLen;
     }
 }
