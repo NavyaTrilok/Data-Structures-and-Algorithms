@@ -29,7 +29,11 @@ class Solution {
             
             number = number + carry;
             
-            p3.next = new ListNode(number%10);
+            
+            //p3.next = new ListNode(number%10);
+            //p3 = p3.next;
+            ListNode newnode = new ListNode(number%10);
+            p3.next = newnode;
             p3 = p3.next;
             carry = number/10;
               
