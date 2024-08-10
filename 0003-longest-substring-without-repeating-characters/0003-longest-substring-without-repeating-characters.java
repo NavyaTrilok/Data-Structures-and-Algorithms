@@ -23,8 +23,6 @@ class Solution {
 
             set[ch_to_acquire] = true;
 
-            
-
             currLen= i - j;
             maxLen=Math.max(currLen,maxLen);
             i++;
