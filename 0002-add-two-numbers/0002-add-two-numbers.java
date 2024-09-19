@@ -15,32 +15,29 @@ class Solution {
         ListNode p3 = dummy;
         int carry = 0;
         int number = 0;
-        while(l1 != null || l2 != null){
+        
+        while(l1!=null || l2!=null){
             number = 0;
-            if(l1 != null){
+            if(l1!=null){
                 number = number + l1.val;
                 l1 = l1.next;
             }
-            
-            if(l2 != null){
+            if(l2!=null){
                 number = number + l2.val;
                 l2 = l2.next;
             }
-            
             number = number + carry;
             
-            
-            //p3.next = new ListNode(number%10);
-            //p3 = p3.next;
             ListNode newnode = new ListNode(number%10);
             p3.next = newnode;
             p3 = p3.next;
             carry = number/10;
-              
+            
         }
         
-         if(carry==1)
-                p3.next = new ListNode(1);
+        if(carry == 1){
+            p3.next = new ListNode(1);
+        }
         
         return dummy.next;
         
