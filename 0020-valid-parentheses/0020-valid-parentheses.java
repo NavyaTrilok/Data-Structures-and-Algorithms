@@ -3,14 +3,13 @@ class Solution {
         while(true){
             if(s.contains("()")){
                 s = s.replace("()","");
-            }else if (s.contains("{}")){
-                s = s.replace("{}","");
-            }else if (s.contains("[]")){
+            }else if(s.contains("[]")){
                 s = s.replace("[]","");
+            }else if(s.contains("{}")){
+                s = s.replace("{}","");
             }else{
                 return s.isEmpty();
             }
-                
         }
         
     }
