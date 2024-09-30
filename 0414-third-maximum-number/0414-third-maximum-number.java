@@ -12,7 +12,7 @@ class Solution {
             }
         }
         if (pq.size() < 3) {
-            while (pq.size() > 1) {
+            if (pq.size() > 1) {
                 pq.poll();
             }
         }
