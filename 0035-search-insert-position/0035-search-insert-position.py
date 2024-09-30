@@ -11,7 +11,7 @@ class Solution(object):
         while low < high:
             m = (low + high) // 2;
             
-            if target > nums[m]:
+            if nums[m] < target:
                 low = m + 1
                 
             else:
