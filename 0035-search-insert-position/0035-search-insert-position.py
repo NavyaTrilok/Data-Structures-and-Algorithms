@@ -5,7 +5,21 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        low, high = 0, len(nums)
+        low = 0
+        high = len(nums)
+        
+        while low < high:
+            m = (low + high) // 2;
+            
+            if target > nums[m]:
+                low = m + 1
+                
+            else:
+                high = m;
+                
+        return low
+    """"
+    low, high = 0, len(nums)
         while low < high:
             mid = (low + high) // 2
             if target > nums[mid]:
@@ -13,4 +27,6 @@ class Solution(object):
             else:
                 high = mid
         return low
+    
+      """          
         
