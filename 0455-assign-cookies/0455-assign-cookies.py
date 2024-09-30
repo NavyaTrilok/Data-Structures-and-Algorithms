@@ -11,6 +11,7 @@ class Solution(object):
         #ans = set();
         i = 0
         j = 0
+        
         while i < len(g) and j < len(s):
                 if g[i] <= s[j]:
                     #ans.add(g[i])
@@ -18,3 +19,4 @@ class Solution(object):
                 j = j + 1
                     
         return i
+        
