@@ -9,7 +9,7 @@ class Solution(object):
         
         for i in range(len(flowerbed)):
                 if flowerbed[i] == 0:
-                    empty_left_plot = (i==0) or flowerbed[i-1] == 0
+                    empty_left_plot = (i==0) or flowerbed[i-1] == 0 #For the first and last elements, we need not check the                                                                              previous and the next adjacent positions respectively.
                     emplty_right_plt = (i == len(flowerbed)-1) or flowerbed[i+1] == 0
                     
                     if empty_left_plot and emplty_right_plt:
