@@ -11,21 +11,18 @@ class Solution(object):
             for j in range(len(list2)):
                 if list1[i] == list2[j]:
                     if i+j not in map:
-                        map[i + j] = []
-                    map[i + j].append(list1[i])
-                            
+                        map[i+j] = []
+                    map[i+j].append(list1[i])
+                    
+                    
         min_index_sum = float('inf')
         for key in map.keys():
             min_index_sum = min(min_index_sum,key)
+            
         res = []
+        
         res.extend(map[min_index_sum])
+        
         return res
     
-        """"
-        res = []
-        if min_index_sum in map:
-            res.extend(map[min_index_sum])  # Use extend to add all items from the list
-
-        return res
-        """
-        
+    
