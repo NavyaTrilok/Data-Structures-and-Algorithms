@@ -8,4 +8,6 @@ class Solution(object):
             if s == s[k:] + s[:k]:
                 return True
         return False
+        # if there is a k repeating pattern in s, then
+        # we can tell that a k-rotation of s should be equal to s
         
