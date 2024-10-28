@@ -8,9 +8,9 @@ class Solution(object):
         
         index_map = {}
         
-        for i, num in enumerate(nums):
-            if num in index_map and abs(i - index_map[num]) <= k:
+        for i in range(len(nums)):
+            if nums[i] in index_map and abs(i - index_map[nums[i]]) <= k:
                 return True
-            index_map[num] = i
+            index_map[nums[i]] = i
         return False
         
