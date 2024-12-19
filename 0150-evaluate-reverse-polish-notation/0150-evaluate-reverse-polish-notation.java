@@ -1,7 +1,6 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        //int i = 0;
-        int size = tokens.length-1;
+        //int size = tokens.length-1;
         int ans = 0;
         Stack<Integer> st = new Stack<>();
         for(String s : tokens){
@@ -29,7 +28,6 @@ class Solution {
                 }else{
                     st.push(Integer.parseInt(s));
                 }
-             //i++;
             }
            return st.pop();            
         }
