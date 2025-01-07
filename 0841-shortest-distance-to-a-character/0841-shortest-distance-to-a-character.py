@@ -8,7 +8,7 @@ class Solution(object):
 
         def letter_get(c,dr):
             n = len(s)
-            cur = -n
+            cur = float('inf')
             res = n*[0]
             for i in range(n)[::dr]:
                 if s[i] == c:
