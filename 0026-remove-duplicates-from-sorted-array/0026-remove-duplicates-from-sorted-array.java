@@ -2,8 +2,7 @@ class Solution {
     public int removeDuplicates(int[] nums) {
         int left = 1;
         int right = 1;
-        for(int i = 1; right < nums.length ; i++){
-            
+        for(int i = 1; i < nums.length; i++){
             if(nums[i-1] == nums[i])
                 right++;
             else{
@@ -11,8 +10,10 @@ class Solution {
                 left++;
                 right++;
             }
+
         }
-        
+
         return left;
+        
     }
 }
