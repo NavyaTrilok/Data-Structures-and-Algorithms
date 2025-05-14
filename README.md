@@ -20,5 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0009-palindrome-number) |
+| [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
