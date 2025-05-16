@@ -38,18 +38,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0975-range-sum-of-bst) |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
