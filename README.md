@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0724-find-pivot-index](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
