@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
