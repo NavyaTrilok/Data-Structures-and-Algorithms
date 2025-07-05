@@ -15,38 +15,23 @@
  */
 class Solution {
 
-    ArrayList<Integer> al = new ArrayList<>();
-    public int rangeSumBST(TreeNode root, int low, int high) {
+    int sum = 0;
+    public void preorder(TreeNode root, int low, int high){
 
         if(root==null){
-            return -1;
-        }
-
-       preorderTraversal(root);
-
-        int sum = 0;
-
-        for(int i = 0; i < al.size(); i++){
-            if (al.get(i) >= low & al.get(i) <= high){
-                sum = sum + al.get(i);
-            }
-        }
-
-        return sum;
-    }
-
-    public void preorderTraversal(TreeNode root){
-
-        if(root == null){
-            al.add(-1);
             return;
         }
-
-        al.add(root.val);
-        preorderTraversal(root.left);
-        preorderTraversal(root.right);
-
+        if(root.val >=low && root.val <= high)
+            sum = sum + root.val;
+        preorder(root.left,low,high);
+        preorder(root.right,low,high);
+        
     }
-
-
+    public int rangeSumBST(TreeNode root, int low, int high) {
+        if (root == null){
+            return 0;
+        }
+        preorder(root,low,high);
+        return sum;
+    }
 }
