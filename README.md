@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
