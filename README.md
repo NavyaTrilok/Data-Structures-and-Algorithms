@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0975-range-sum-of-bst) |
@@ -61,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0975-range-sum-of-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
