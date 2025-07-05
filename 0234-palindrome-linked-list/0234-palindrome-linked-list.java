@@ -10,34 +10,18 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head == null)
-            return false;
-        if(head.next==null)
-            return true;
-        
-        Stack<ListNode> st = new Stack<>();
-        ListNode temp = head;
-        
-        while(temp!=null){
-            st.push(temp);
-            temp = temp.next;
+        ListNode temp;
+        String s = "";
+        for(temp = head; temp!=null; temp=temp.next){
+            s = s + Integer.toString(temp.val);
         }
-        temp = head;
-        ListNode node;
-        while(st.empty()==false && temp!=null){
-            System.out.println("here");
-            node = st.pop();
-            if(node.val != temp.val){
-                //System.out.println("here");
+
+        for(int i = 0, j = s.length() - 1; i < s.length() && j >= 0; i++, j--){
+            if (s.charAt(i)!=s.charAt(j)){
                 return false;
             }
-                
-            
-            temp = temp.next;
-               
         }
-        
+
         return true;
-        
     }
 }
