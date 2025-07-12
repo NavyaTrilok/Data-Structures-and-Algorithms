@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0013-roman-to-integer) |
+| [0071-simplify-path](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
 ## Bit Manipulation
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
