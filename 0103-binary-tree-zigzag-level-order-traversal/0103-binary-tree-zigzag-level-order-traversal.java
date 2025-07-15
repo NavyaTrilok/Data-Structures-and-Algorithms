@@ -37,14 +37,14 @@ class Solution {
 
                 if (node.left != null) 
                     que.add(node.left);
-                    
+
                 if (node.right != null) 
                     que.add(node.right);
             }
 
-            ans.add(new ArrayList<>(level));
+            ans.add(new ArrayList<>(level)); //level linkedlist is converted to arraylist
 
-            leftToRight = !leftToRight;
+            leftToRight = !leftToRight; //flip the traversal order for every iteration
         }
 
         return ans;
