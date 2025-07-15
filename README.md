@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Linked List
 |  |
 | ------- |
@@ -133,20 +136,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
