@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Linked List
