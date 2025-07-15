@@ -35,8 +35,11 @@ class Solution {
                     level.addFirst(node.val); // reverse order
                 }
 
-                if (node.left != null) que.add(node.left);
-                if (node.right != null) que.add(node.right);
+                if (node.left != null) 
+                    que.add(node.left);
+                    
+                if (node.right != null) 
+                    que.add(node.right);
             }
 
             ans.add(new ArrayList<>(level));
