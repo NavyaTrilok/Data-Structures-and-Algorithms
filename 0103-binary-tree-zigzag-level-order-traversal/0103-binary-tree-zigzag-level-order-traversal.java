@@ -18,16 +18,16 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         if (root == null) return ans;
 
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.add(root);
+        Queue<TreeNode> que = new LinkedList<>();
+        que.add(root);
         boolean leftToRight = true;
 
-        while (!queue.isEmpty()) {
-            int size = queue.size();
+        while (que.size() > 0) {
+            int size = que.size();
             LinkedList<Integer> level = new LinkedList<>();
 
             while(size-- > 0) {
-                TreeNode node = queue.poll();
+                TreeNode node = que.poll();
 
                 if (leftToRight) {
                     level.addLast(node.val);  // normal order
@@ -35,8 +35,8 @@ class Solution {
                     level.addFirst(node.val); // reverse order
                 }
 
-                if (node.left != null) queue.add(node.left);
-                if (node.right != null) queue.add(node.right);
+                if (node.left != null) que.add(node.left);
+                if (node.right != null) que.add(node.right);
             }
 
             ans.add(new ArrayList<>(level));
