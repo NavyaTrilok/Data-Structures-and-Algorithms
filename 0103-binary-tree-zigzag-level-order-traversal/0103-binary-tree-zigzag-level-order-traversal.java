@@ -24,7 +24,7 @@ class Solution {
 
         while (!queue.isEmpty()) {
             int size = queue.size();
-            Deque<Integer> level = new LinkedList<>();
+            LinkedList<Integer> level = new LinkedList<>();
 
             for (int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();
@@ -40,6 +40,7 @@ class Solution {
             }
 
             ans.add(new ArrayList<>(level));
+
             leftToRight = !leftToRight;
         }
 
