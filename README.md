@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
+| [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
@@ -146,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
