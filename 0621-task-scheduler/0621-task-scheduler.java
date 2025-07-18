@@ -9,19 +9,17 @@ class Solution {
 
         Arrays.sort(count);
 
-        int maxfreq = count[25];
+        int max_freq = count[25];
 
-        int idle = (maxfreq - 1) * n;
+        int idle = (max_freq - 1) * n;
 
-        for(int i = 24; i >= 0; i--){
-
-            idle -= Math.min(maxfreq-1, count[i]);
-
+        for(int i = 24; i >=0 ; i--){
+            idle -= Math.min(max_freq-1, count[i]); 
         }
 
-        idle = Math.max(0,idle);
+        idle = Math.max(idle,0);
 
         return tasks.length + idle;
-        
+
     }
 }
