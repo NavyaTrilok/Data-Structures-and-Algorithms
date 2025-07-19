@@ -5,9 +5,8 @@ class Solution {
 
         int[] results = new int[heights.length];
 
-        results[heights.length-1] = 0;
-
         for(int i = heights.length-1; i >= 0 ; i--){
+
             int visible = 0;
 
             while(!st.isEmpty() && heights[i] > st.peek()){
@@ -21,7 +20,6 @@ class Solution {
 
             results[i] = visible;
             st.push(heights[i]);
-
         }
 
         return results;
