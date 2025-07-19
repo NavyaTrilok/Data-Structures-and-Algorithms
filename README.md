@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1036-rotting-oranges) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
+| [1036-rotting-oranges](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
