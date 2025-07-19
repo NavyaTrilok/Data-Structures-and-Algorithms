@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0907-koko-eating-bananas) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0394-decode-string) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0295-find-median-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
