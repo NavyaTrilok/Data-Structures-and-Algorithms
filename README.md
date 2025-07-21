@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1036-rotting-oranges) |
 ## Stack
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Queue
 |  |
 | ------- |
