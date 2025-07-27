@@ -14,58 +14,44 @@
  * }
  */
 class Solution {
-    
-      public int min(TreeNode root) 
-    {
-        // write your code here
-        while(root.left!=null)
-        {
-            root=root.left;
-        }
+    public TreeNode deleteNode(TreeNode root, int key) {
+        if(root == null)
+            return null;
 
-        return root.val;
-    }
+        if(root.val == key){
 
-    
-    public TreeNode deleteNode(TreeNode root, int key) 
-    {
-        if(root==null) return null;
-        
-        
-        if(root.val==key)
-        {
-            if(root.right==null && root.left==null)
+            if(root.left == null && root.right == null){
                 return null;
-            if(root.right==null)
-            {
-                return root.left;
             }
-            if(root.left==null)
-            {
+            if(root.left == null){
                 return root.right;
             }
-            
-            int right_min=min(root.right);
-            
-            root.val=right_min;
-            root.right=deleteNode(root.right,right_min);
-            
-            return root;
+            if(root.right == null){
+                return root.left;
+            }
+
+            int right_min = min(root.right);
+            root.val = right_min;
+            root.right = deleteNode(root.right,right_min);
+
         }
 
-        if(root.val<key)
-        {
-            root.right=deleteNode(root.right,key);
+        if(root.val < key){
+            root.right = deleteNode(root.right,key);
         }
-        else
-        {
-            root.left=deleteNode(root.left,key);
+        else{
+            root.left = deleteNode(root.left,key);
         }
-        
+
         return root;
-     
     }
-  
-    
-      
+
+    public int min(TreeNode node){
+
+        while(node.left!=null){
+            node = node.left;
+        }
+
+        return node.val;
+    }
 }
