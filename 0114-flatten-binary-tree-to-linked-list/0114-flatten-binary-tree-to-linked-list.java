@@ -19,14 +19,15 @@ public class Solution {
 
         while (current != null) {
             if (current.left != null) {
+                
                 // Find rightmost node in left subtree
-                TreeNode predecessor = current.left;
-                while (predecessor.right != null) {
-                    predecessor = predecessor.right;
+                TreeNode previous = current.left;
+                while (previous.right != null) {
+                    previous = previous.right;
                 }
 
                 // Connect right subtree to right of predecessor
-                predecessor.right = current.right;
+                previous.right = current.right;
 
                 // Move left subtree to right
                 current.right = current.left;
