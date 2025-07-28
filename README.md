@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
+| [0270-closest-binary-search-tree-value](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0210-course-schedule-ii) |
+| [0270-closest-binary-search-tree-value](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0572-subtree-of-another-tree) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
+| [0270-closest-binary-search-tree-value](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0543-diameter-of-binary-tree) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
+| [0270-closest-binary-search-tree-value](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0270-closest-binary-search-tree-value) |
 | [0450-delete-node-in-a-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0450-delete-node-in-a-bst) |
 | [0907-koko-eating-bananas](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0975-range-sum-of-bst) |
