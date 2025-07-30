@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
+| [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
+| [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
