@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0724-find-pivot-index) |
+| [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0907-koko-eating-bananas) |
@@ -179,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
+| [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
+| [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
 ## String Matching
 |  |
 | ------- |
@@ -192,12 +195,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
 | [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
