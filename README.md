@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
 | [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -270,10 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0042-trapping-rain-water) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Graph
