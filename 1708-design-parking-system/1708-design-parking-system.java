@@ -5,18 +5,11 @@ class ParkingSystem {
     public ParkingSystem(int big, int medium, int small) {
 
         remaining = new int[]{big, medium, small};
-
+        
     }
     
     public boolean addCar(int carType) {
-
-        if(remaining[carType - 1] > 0){
-            remaining[carType - 1]--;
-            return true;
-        }
-
-        return false;
-        
+        return remaining[carType - 1]-- > 0;
     }
 }
 
