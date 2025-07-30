@@ -30,6 +30,10 @@ class FileSystem {
         return fileValues.getOrDefault(path,-1);
     }
 }
+//Time complexity: O(1)
+//Space complexity: O(n)
+
+
 
 /**
  * Your FileSystem object will be instantiated and called as such:
