@@ -1,41 +1,22 @@
 class ParkingSystem {
 
-    int bigRemaining;
-    int mediumRemaining;
-    int smallRemaining;
+    int remaining[];
 
     public ParkingSystem(int big, int medium, int small) {
 
-        bigRemaining = big;
-        mediumRemaining = medium;
-        smallRemaining = small;
-        
+        remaining = new int[]{big, medium, small};
+
     }
     
     public boolean addCar(int carType) {
 
-        if(carType == 1){
-            if(bigRemaining > 0){
-                bigRemaining--;
-                return true;
-            }
-            return false;
+        if(remaining[carType - 1] > 0){
+            remaining[carType - 1]--;
+            return true;
         }
-        if(carType == 2){
-            if(mediumRemaining > 0){
-                mediumRemaining--;
-                return true;
-            }
-            return false;
-        }
-        if(carType == 3){
-            if(smallRemaining > 0){
-                smallRemaining--;
-                return true;
-            }
-            return false;
-        }
+
         return false;
+        
     }
 }
 
