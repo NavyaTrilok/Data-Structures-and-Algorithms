@@ -181,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
+| [1905-design-authentication-manager](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1905-design-authentication-manager) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
+| [1905-design-authentication-manager](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1905-design-authentication-manager) |
 ## String Matching
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
 | [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
+| [1905-design-authentication-manager](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1905-design-authentication-manager) |
 ## Queue
 |  |
 | ------- |
@@ -276,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0210-course-schedule-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1905-design-authentication-manager](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1905-design-authentication-manager) |
 <!---LeetCode Topics End-->
