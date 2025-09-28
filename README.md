@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0724-find-pivot-index) |
 | [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
+| [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0907-koko-eating-bananas) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
+| [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1905-design-authentication-manager](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1905-design-authentication-manager) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
+| [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
 ## Quickselect
 |  |
