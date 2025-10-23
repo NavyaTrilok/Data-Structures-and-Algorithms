@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3396-valid-word](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-design-authentication-manager](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1905-design-authentication-manager) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NavyaTrilok/AlgoPrep/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
 ## Linked List
 |  |
 | ------- |
