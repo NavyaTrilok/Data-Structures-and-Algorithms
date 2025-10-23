@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0898-transpose-matrix) |
 | [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Hash Table
 |  |
 | ------- |
