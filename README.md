@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0394-decode-string) |
 | [0541-reverse-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0551-student-attendance-record-i) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
