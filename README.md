@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0295-find-median-from-data-stream) |
+| [0541-reverse-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0394-decode-string) |
+| [0541-reverse-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
