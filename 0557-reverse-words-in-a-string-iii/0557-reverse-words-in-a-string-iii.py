@@ -8,6 +8,5 @@ class Solution(object):
         ans = ""
         for word in words:
             ans += word[::-1] + " "
-           
-        
+
         return ans.strip()
