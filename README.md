@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0724-find-pivot-index) |
+| [4052-equal-score-substrings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/4052-equal-score-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [4052-equal-score-substrings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/4052-equal-score-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
