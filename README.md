@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4052-equal-score-substrings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/4052-equal-score-substrings) |
 ## Bit Manipulation
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NavyaTrilok/AlgoPrep/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [1708-design-parking-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1708-design-parking-system) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
 | ------- |
