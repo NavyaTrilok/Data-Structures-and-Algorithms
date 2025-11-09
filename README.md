@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
 | [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0234-palindrome-linked-list) |
 | [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0295-find-median-from-data-stream) |
 | [0541-reverse-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0557-reverse-words-in-a-string-iii) |
