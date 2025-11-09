@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0724-find-pivot-index) |
