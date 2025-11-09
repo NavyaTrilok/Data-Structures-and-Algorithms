@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0231-power-of-two) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/NavyaTrilok/AlgoPrep/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Recursion
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0890-lemonade-change) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/NavyaTrilok/AlgoPrep/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Matrix
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/NavyaTrilok/AlgoPrep/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Graph
 |  |
 | ------- |
