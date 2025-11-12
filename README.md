@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0049-group-anagrams) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0222-count-complete-tree-nodes) |
 | [0270-closest-binary-search-tree-value](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0270-closest-binary-search-tree-value) |
 | [0450-delete-node-in-a-bst](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0450-delete-node-in-a-bst) |
