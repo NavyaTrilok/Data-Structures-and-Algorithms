@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0217-contains-duplicate) |
 | [0253-meeting-rooms-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0283-move-zeroes) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0003-longest-substring-without-repeating-characters) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
