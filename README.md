@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NavyaTrilok/AlgoPrep/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
@@ -253,11 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0572-subtree-of-another-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -365,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
