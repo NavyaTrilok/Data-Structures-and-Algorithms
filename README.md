@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1709-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-number-of-changing-keys](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3312-number-of-changing-keys) |
 | [3396-valid-word](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/NavyaTrilok/AlgoPrep/tree/master/3412-permutation-difference-between-two-strings) |
