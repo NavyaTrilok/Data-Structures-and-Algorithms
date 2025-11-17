@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0782-jewels-and-stones) |
 | [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [0953-reverse-only-letters](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0953-reverse-only-letters) |
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0692-top-k-frequent-words) |
+| [0782-jewels-and-stones](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/NavyaTrilok/AlgoPrep/tree/master/0829-subdomain-visit-count) |
 | [1125-design-file-system](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1125-design-file-system) |
