@@ -1,0 +1,6 @@
+# Write your MySQL query statement below
+
+SELECT IFNULL(UNIQUE_ID,NULL) AS unique_id, name
+FROM EMPLOYEES E
+LEFT JOIN EMPLOYEEUNI EU
+ON E.ID = EU.ID
