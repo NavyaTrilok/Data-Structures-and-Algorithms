@@ -399,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
