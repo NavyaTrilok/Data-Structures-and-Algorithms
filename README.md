@@ -414,4 +414,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/NavyaTrilok/AlgoPrep/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
